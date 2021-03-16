@@ -1,0 +1,7 @@
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+E:\Privat\Programmieren\C#\Game\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
